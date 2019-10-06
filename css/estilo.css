@@ -1,0 +1,45 @@
+table{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px groove #cdcdcd;
+    border-bottom: 1px groove #cdcdcd;
+}
+table thead{
+    font-size: 18pt;
+    background-color: aliceblue;
+}
+table td{
+    height: 30px;
+    padding-left: 10px;
+}
+.linkAdd {
+    width: 100px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: aqua;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sucesso{
+    background-color: forestgreen;
+}
+.erro{
+    background-color: red;  
+}
+.ativo{
+    background-color: #dee2e6;
+}
+.voltarNormal{
+    background-color: #ffffff;
+}
+
+.fakeBootstrap{
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
